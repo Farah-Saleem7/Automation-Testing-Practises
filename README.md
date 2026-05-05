@@ -6,5 +6,15 @@ A foundational Java automation practices demonstrating core testing principles. 
 
 2- Using forEach in a Two-Dimensional Array Practice (Java) ->
 [https://testng-practice.readme.io/docs/using-foreach-in-a-two-dimensional-array-practice]
+
 3- Reading and Writing Array Elements Practice (Java) ->
 [https://testng-practice.readme.io/docs/reading-and-writing-array-elements-practice-java]
+
+4- Applying the Equals Method Practice (Java) ->
+[https://testng-practice.readme.io/docs/applying-the-equals-method-practice-java]
+
+5- HashMap simple Practice (Java) ->
+[https://testng-practice.readme.io/docs/hashmap-simple-practice-java]
+
+6- Negative Indexes and Exception Handling Practice (Java) ->
+[https://testng-practice.readme.io/docs/negative-indexes-and-exception-handling-practice-java]
