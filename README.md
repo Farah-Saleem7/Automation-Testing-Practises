@@ -1,6 +1,11 @@
 # Automation-Testing-Practises
 A foundational Java automation practices demonstrating core testing principles. Perfect for showcasing clean test architecture and basic assertion logic.
 
+**User Authentication Test
+[https://testng-practice.readme.io/docs/user-authentication-test]
+
+
+
 1- Welcome to TestNG Annotations, Assertions, XML file(Fruit Shop) practice (Java) -> 
 [https://testng-practice.readme.io/docs/getting-started]
 
